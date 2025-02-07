@@ -30,3 +30,7 @@ Ensure the following utilities are installed:
    ```
    ```bash
    ./server_monitor.sh
+
+## project inspired from 
+ - Roadmap.sh
+https://roadmap.sh/projects/server-stats
